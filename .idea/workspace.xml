@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc601141-b1ce-47b3-89f9-a7ca73a414a0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/conf.d/freeilu.com.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf.d/phonedigi.com.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf.d/us1.supership.club.conf" beforeDir="false" />
+    <list default="true" id="dc601141-b1ce-47b3-89f9-a7ca73a414a0" name="Default" comment="config nginx">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf.d/phonedigi.com.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf.d/phonedigi.com.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +66,7 @@
       <updated>1531202894402</updated>
       <workItem from="1531202895740" duration="779000" />
       <workItem from="1534989183084" duration="166000" />
-      <workItem from="1608861058822" duration="332000" />
+      <workItem from="1608861058822" duration="608000" />
     </task>
     <task id="LOCAL-00001" summary="config nginx">
       <created>1531203532010</created>
@@ -57,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531203532010</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="config nginx">
+      <created>1608861412971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608861412971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +105,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="config nginx" />
     <option name="LAST_COMMIT_MESSAGE" value="config nginx" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608861540556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608861540556" />
+    <state x="655" y="260" width="609" height="520" key="find.popup" timestamp="1608861307856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="260" width="609" height="520" key="find.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608861307856" />
   </component>
 </project>
